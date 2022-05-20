@@ -73,3 +73,7 @@ hr {
        float: left;
        color: whitesmoke;
    }
+    #pic {
+        border: 3px solid orange;
+        box-shadow: inset;
+}
