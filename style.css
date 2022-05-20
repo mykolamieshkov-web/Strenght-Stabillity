@@ -1,8 +1,4 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
+
 #header {
     border: 7px solid whitesmoke;
     border-radius: 10%;
@@ -15,6 +11,8 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
+     margin: 0;
+    padding: 0;
 }
 #contacts {
 height: 350px;
